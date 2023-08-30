@@ -1,274 +1,19 @@
 {
   "username": "Pseey",
-  "Velocity": {
-    "toggled": true,
-    "values": {
-      "Mode": "Grim",
-      "Horizontal": "-58",
-      "Vertical": "97.0"
-    }
-  },
-  "NoSlow": {
-    "toggled": false,
-    "values": {
-      "Mode": "Custom",
-      "Slow": "0.2"
-    }
-  },
-  "ModuleList": {
-    "toggled": true,
-    "values": {
-      "Background Mode": "Normal",
-      "Sorting": "Length",
-      "Offset Add": "0.0",
-      "X": "0.0",
-      "Y": "0.0",
-      "Gradient": "true",
-      "Lowercase": "true",
-      "Show Background": "false",
-      "Show Visuals": "true",
-      "Right Side": "true",
-      "Shadow": "true"
-    }
-  },
-  "BackTrack": {
-    "toggled": false,
-    "values": {
-      "Max Packets": "3.0",
-      "Only Look on Entity": "false",
-      "Only Out Of Range": "true"
-    }
-  },
-  "EntityESP": {
-    "toggled": true,
-    "values": {
-      "Mode": {
-        "NameTags": "false",
-        "Box": "true",
-        "Glow": "false"
-      },
-      "Radius": "2.0",
-      "Exposure": "2.0",
-      "Seperate Texture": "true",
-      "Target": {
-        "Villager": "false",
-        "Players": "true",
-        "Monsters": "false"
-      }
-    }
-  },
-  "InvMove": {
-    "toggled": false,
-    "values": {
-      "Mode": "NoInvOpen"
-    }
-  },
-  "BackTrackTest": {
-    "toggled": false,
-    "values": {
-      "Mode": "Loop"
-    }
-  },
-  "W-Tap": {
-    "toggled": false,
-    "values": {
-      "Mode": "Stop In Range"
-    }
-  },
-  "AntiBot": {
-    "toggled": false,
-    "values": {
-      "Debug": "true"
-    }
-  },
-  "NoFall": {
-    "toggled": false,
-    "values": {
-      "Mode": "Vulcan"
-    }
-  },
-  "Fly": {
-    "toggled": false,
-    "values": {
-      "Mode": "BlocksMC"
-    }
-  },
-  "InventoryManager": {
-    "toggled": true,
-    "values": {
-      "Click Delay": "157.0",
-      "Open Delay": "344.0",
-      "Only Inventory": "true"
-    }
-  },
-  "HitColor": {
-    "toggled": true,
-    "values": {
-      "Mode": "Mode2"
-    }
-  },
-  "MovementCorrection": {
-    "toggled": true,
-    "values": {
-      "Mode": "Normal",
-      "Silent": "true",
-      "Jump Fix": "true"
-    }
-  },
-  "TickBase": {
-    "toggled": false,
-    "values": {
-      "Range": "3.0",
-      "Max Time": "0.14772972972972975",
-      "Delay": "354"
-    }
-  },
-  "TestModule": {
-    "toggled": false
-  },
-  "AutoRegister": {
-    "toggled": true,
-    "values": {
-      "Delay": "500.0",
-      "Password": "BIND123!"
-    }
-  },
-  "SafeWalk": {
-    "toggled": true,
-    "values": {
-      "Mode": "Sneak"
-    }
-  },
-  "KillAura": {
-    "toggled": false,
-    "values": {
-      "Selected Mode": "Health",
-      "Rotation Mode": "PositionVector",
-      "Random Mode": "Intave",
-      "Clicking Mode": "Random",
-      "Attack Mode": "Click",
-      "AutoBlock Mode": "Fake",
-      "Rotation": {
-        "Lock View": "false",
-        "Random": "true",
-        "Prediction": "false",
-        "Smooth": "true"
-      },
-      "Target": {
-        "Teams": "false",
-        "Villager": "true",
-        "Players": "true",
-        "Monsters": "false"
-      },
-      "Range": "3.0",
-      "Pre Range": "1.0",
-      "Max CPS": "8.0",
-      "Min CPS": "6.0",
-      "Max Targets": "9",
-      "Fov": "360.0",
-      "Through Walls": "false",
-      "Click Delay": "true",
-      "Auto Disable": "true",
-      "Keep Sprint": "false",
-      "GCD Fix": "true",
-      "Auto Block": "true"
-    }
-  },
-  "FakeLag": {
-    "toggled": false,
-    "values": {
-      "Mode": "Normal",
-      "Ping": "1000.0"
-    }
-  },
-  "Step": {
-    "toggled": false,
-    "values": {
-      "Mode": "Vanilla"
-    }
-  },
-  "HUD": {
-    "toggled": true,
-    "values": {
-      "WaterMark Mode": "ALT",
-      "Show Range": "true",
-      "Show BPS": "true"
-    }
-  },
   "ViewBobbing": {
     "toggled": true,
     "values": {
       "Mode": "SameY"
     }
   },
-  "MoveHelper": {
-    "toggled": false,
-    "values": {
-      "Jump under block": "true",
-      "Jump out of range": "true",
-      "AutoJump after Hits": "false",
-      "Hits": "6.0"
-    }
-  },
-  "Speed": {
-    "toggled": false,
-    "values": {
-      "Mode": "NCP",
-      "Mode-Verus": "Verus-BHop",
-      "Mode-NCP": "NCP-YPort",
-      "Strafe": "true"
-    }
-  },
-  "Trajectories": {
+  "Spotify": {
     "toggled": true,
     "values": {
-      "Line Size": "1.5"
-    }
-  },
-  "Scaffold": {
-    "toggled": false,
-    "values": {
-      "Mode": "Normal",
-      "Place Mode": "Legit",
-      "Yaw Offset": "0",
-      "Over Block Rotation": "false",
-      "Strict": "false",
-      "Click Delay": "false",
-      "Smooth Rotation": "false",
-      "GCD Fix": "true",
-      "AutoJump": "false",
-      "Test": "false"
-    }
-  },
-  "Phase": {
-    "toggled": false
-  },
-  "Disabler": {
-    "toggled": false,
-    "values": {
-      "Mode": "Vulcan"
-    }
-  },
-  "Stealer": {
-    "toggled": true,
-    "values": {
-      "Click Delay": "150.0",
-      "Open Delay": "367.0",
-      "Random Pick": "true"
-    }
-  },
-  "AutoTool": {
-    "toggled": false
-  },
-  "ClickGUI": {
-    "toggled": false,
-    "values": {
-      "Mode": "Box",
-      "Theme": "Test",
-      "Sort": "true",
-      "Animation": "true",
-      "Start Animation": "true",
-      "Gradient": "true"
+      "X Position": "5.0",
+      "Y Position": "376.0",
+      "Show AlbumCover": "true",
+      "Show Background": "true",
+      "Show Shadow": "true"
     }
   },
   "FPSBooster": {
@@ -280,22 +25,327 @@
       "No Render Shadows": "false"
     }
   },
+  "MoveHelper": {
+    "toggled": false,
+    "values": {
+      "Jump under block": "true",
+      "Jump out of range": "true",
+      "AutoJump after Hits": "false",
+      "Hits": "6.0"
+    }
+  },
+  "AutoTool": {
+    "toggled": false
+  },
+  "Velocity": {
+    "toggled": true,
+    "values": {
+      "Mode": "Custom",
+      "AAC Mode": "AAC4",
+      "Horizontal": "40",
+      "Vertical": "100.0",
+      "AutoJump": "true"
+    }
+  },
+  "TestModule": {
+    "toggled": false,
+    "values": {
+      "Delay": "1.0"
+    }
+  },
+  "FakeLag": {
+    "toggled": false,
+    "values": {
+      "Mode": "Normal",
+      "Ping": "1000.0"
+    }
+  },
+  "EntityESP": {
+    "toggled": true,
+    "values": {
+      "Mode": {
+        "NameTags": "false",
+        "Box": "false",
+        "Glow": "true"
+      },
+      "Radius": "2.6086957",
+      "Exposure": "3.8793478",
+      "Seperate Texture": "false",
+      "Target": {
+        "Villager": "true",
+        "Players": "true",
+        "Monsters": "false"
+      }
+    }
+  },
+  "VClip": {
+    "toggled": false
+  },
+  "MovementCorrection": {
+    "toggled": true,
+    "values": {
+      "Mode": "Intave",
+      "Silent": "true",
+      "Jump Fix": "true"
+    }
+  },
   "Teleport": {
     "toggled": false,
     "values": {
-      "Mode": "HAC"
+      "Mode": "HAC",
+      "Motion": "false"
+    }
+  },
+  "Speed": {
+    "toggled": false,
+    "values": {
+      "Mode": "Vanilla",
+      "Mode-Verus": "Verus-BHop",
+      "Mode-NCP": "NCP-Test",
+      "Strafe": "true"
+    }
+  },
+  "NoJumpDelay": {
+    "toggled": true
+  },
+  "TickBase": {
+    "toggled": false,
+    "values": {
+      "Range": "3.0",
+      "Max Time": "0.15",
+      "Delay": "100.0",
+      "Wait For KillAura": "true",
+      "Limited Ticks": "true"
+    }
+  },
+  "KillAura": {
+    "toggled": false,
+    "values": {
+      "Selected Mode": "Health",
+      "Rotation Mode": "BestVector",
+      "Random Mode": "Cos Sin",
+      "Clicking Mode": "Legit",
+      "Attack Mode": "Click",
+      "AutoBlock Mode": "Fake",
+      "Rotation": {
+        "Lock View": "false",
+        "Random": "true",
+        "Prediction": "false",
+        "Smooth": "false"
+      },
+      "Target": {
+        "Teams": "false",
+        "Villager": "false",
+        "Players": "true",
+        "Monsters": "false"
+      },
+      "Range": "3.0",
+      "Pre Range": "1",
+      "Max CPS": "18.0",
+      "Min CPS": "16.0",
+      "Max Targets": "10",
+      "Fov": "360.0",
+      "Rotation Speed": "2.9548872",
+      "Clicking by HurtTime": "6.0",
+      "Through Walls": "true",
+      "Click Delay": "true",
+      "Auto Disable": "true",
+      "Keep Sprint": "false",
+      "GCD Fix": "true",
+      "Auto Block": "false"
+    }
+  },
+  "TargetStrafe": {
+    "toggled": false
+  },
+  "InvMove": {
+    "toggled": false,
+    "values": {
+      "Mode": "Vanilla"
+    }
+  },
+  "AutoRegister": {
+    "toggled": false,
+    "values": {
+      "Delay": "0",
+      "Password": "BIND123!"
+    }
+  },
+  "HitColor": {
+    "toggled": true,
+    "values": {
+      "Mode": "Mode2"
+    }
+  },
+  "Timer": {
+    "toggled": false,
+    "values": {
+      "Mode": "Balance",
+      "Max Delay": "10.0"
     }
   },
   "Blink": {
     "toggled": false,
     "values": {
-      "Max Packets": "11.0",
+      "Max Packets": "54.0",
       "Packet Cap": "true",
       "Reset on KillAura": "true",
       "Reset on HurtTime": "true",
-      "Only When Move": "true",
+      "Only When Move": "false",
       "FakePlayer": "false",
-      "Draw Line": "true"
+      "Draw Line": "false"
+    }
+  },
+  "NoSlow": {
+    "toggled": false,
+    "values": {
+      "Mode": "Custom",
+      "Slow": "0.2"
+    }
+  },
+  "Step": {
+    "toggled": false,
+    "values": {
+      "Mode": "Vanilla"
+    }
+  },
+  "BackTrack": {
+    "toggled": true,
+    "values": {
+      "Mode": "Delay",
+      "Delay": "50",
+      "Smart": "true"
+    }
+  },
+  "Scaffold": {
+    "toggled": false,
+    "values": {
+      "Mode": "Normal",
+      "Place Mode": "Legit",
+      "Yaw Offset": "0",
+      "Over Block Rotation": "false",
+      "Strict": "false",
+      "Place Delay": "false",
+      "Smooth Rotation": "false",
+      "GCD Fix": "true"
+    }
+  },
+  "Fly": {
+    "toggled": false,
+    "values": {
+      "Mode": "Frequency"
+    }
+  },
+  "SafeWalk": {
+    "toggled": false,
+    "values": {
+      "Mode": "Sneak"
+    }
+  },
+  "ModuleList": {
+    "toggled": true,
+    "values": {
+      "Background Mode": "Normal",
+      "Sorting": "Length",
+      "Offset Add": "0.0",
+      "X": "5.0",
+      "Y": "7.0",
+      "Gradient": "false",
+      "Lowercase": "true",
+      "Show Background": "false",
+      "Show Visuals": "true",
+      "Right Side": "true",
+      "Shadow": "false"
+    }
+  },
+  "HUD": {
+    "toggled": true,
+    "values": {
+      "WaterMark Mode": "ALT",
+      "Show Range": "false",
+      "Show BPS": "true",
+      "Show ViewLine": "false"
+    }
+  },
+  "InventoryManager": {
+    "toggled": false,
+    "values": {
+      "Click Delay": "157.0",
+      "Open Delay": "344.0",
+      "Only Inventory": "true"
+    }
+  },
+  "EntityTracker": {
+    "toggled": false,
+    "values": {
+      "Mode": "Loop"
+    }
+  },
+  "ClickGUI": {
+    "toggled": false,
+    "values": {
+      "Gradient": "true",
+      "Mode": "Box",
+      "Theme": "Vision",
+      "Sort": "true",
+      "Animation": "false",
+      "Start Animation": "true"
+    }
+  },
+  "CrashFixer": {
+    "toggled": true
+  },
+  "NoFall": {
+    "toggled": false,
+    "values": {
+      "Mode": "Spoof"
+    }
+  },
+  "AntiBot": {
+    "toggled": false,
+    "values": {
+      "has Ping": "false",
+      "ValidName": "false",
+      "Dup Player": "true",
+      "Debug Message": "false"
+    }
+  },
+  "Disabler": {
+    "toggled": false,
+    "values": {
+      "Mode": "Vulcan"
+    }
+  },
+  "W-Tap": {
+    "toggled": false,
+    "values": {
+      "Mode": "Stop In Range"
+    }
+  },
+  "Stealer": {
+    "toggled": false,
+    "values": {
+      "Steal Delay": "154.0",
+      "Open Delay": "367.0",
+      "Random Pick": "false",
+      "Auto Close": "true",
+      "Name Check": "true",
+      "Instant Loot": "false"
+    }
+  },
+  "Trajectories": {
+    "toggled": true,
+    "values": {
+      "Line Size": "4.95"
+    }
+  },
+  "Fucker": {
+    "toggled": false
+  },
+  "Phase": {
+    "toggled": false,
+    "values": {
+      "Mode": "Vanilla"
     }
   }
 }

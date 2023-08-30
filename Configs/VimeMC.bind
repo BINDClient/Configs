@@ -1,0 +1,203 @@
+{
+  "username": "Pseey",
+  "ESP": {
+    "toggled": false,
+    "bypass": false
+  },
+  "Step": {
+    "toggled": false,
+    "bypass": false,
+    "values": {
+      "Mode": "Vulcan"
+    }
+  },
+  "Disabler": {
+    "toggled": false,
+    "bypass": false,
+    "values": {
+      "Mode": "Vulcan"
+    }
+  },
+  "Velocity": {
+    "toggled": false,
+    "bypass": false,
+    "values": {
+      "Mode": "BlocksMC"
+    }
+  },
+  "ChestAura": {
+    "toggled": false,
+    "bypass": false
+  },
+  "KillAura": {
+    "toggled": false,
+    "bypass": false,
+    "values": {
+      "Mode": "Distance",
+      "Random Rotation Mode": "Intave",
+      "Rotation": "{\"Lock View\":\"false\",\"Random\":\"true\",\"Prediction\":\"false\",\"Smooth\":\"true\"}",
+      "Target": "{\"Teams\":\"false\",\"Villager\":\"true\",\"Players\":\"true\",\"Monsters\":\"false\"}",
+      "Range": "3.0",
+      "Pre Range": "3.0",
+      "Max CPS": "18.0",
+      "Min CPS": "13.0",
+      "Max Targets": "1"
+    }
+  },
+  "FPSBooster": {
+    "toggled": false,
+    "bypass": false,
+    "values": {
+      "Armor": "true",
+      "Sign": "true"
+    }
+  },
+  "NoSlow": {
+    "toggled": false,
+    "bypass": false,
+    "values": {
+      "Added": "0.2"
+    }
+  },
+  "Stealer": {
+    "toggled": true,
+    "bypass": false,
+    "values": {
+      "Click Delay": "34",
+      "Open Delay": "0"
+    }
+  },
+  "MoveHelper": {
+    "toggled": false,
+    "bypass": false
+  },
+  "TickBase": {
+    "toggled": false,
+    "bypass": false,
+    "values": {
+      "Mode": "Future",
+      "Range": "4",
+      "Max Time": "2.09"
+    }
+  },
+  "Blink": {
+    "toggled": false,
+    "bypass": false,
+    "values": {
+      "Max Packets": "130.0",
+      "Packet Cap": "true",
+      "Reset on KillAura": "true",
+      "Reset on HurtTime": "true",
+      "Only When Move": "true",
+      "Add FakePlayer": "false"
+    }
+  },
+  "ModuleList": {
+    "toggled": true,
+    "bypass": false,
+    "values": {
+      "OffsetY": "10",
+      "Gradient": "false",
+      "Show Background": "false",
+      "Show Visuals": "false",
+      "Right Side": "true"
+    }
+  },
+  "FakeLag": {
+    "toggled": true,
+    "bypass": false,
+    "values": {
+      "Mode": "Normal",
+      "Packet Delay": "408"
+    }
+  },
+  "BackTrack": {
+    "toggled": true,
+    "bypass": false,
+    "values": {
+      "Max Packets": "12"
+    }
+  },
+  "NiceCamera": {
+    "toggled": false,
+    "bypass": false,
+    "values": {
+      "Hide Jump": "false",
+      "X Offset": "0",
+      "Z Offset": "0"
+    }
+  },
+  "InventoryManager": {
+    "toggled": true,
+    "bypass": false,
+    "values": {
+      "Click Delay": "157.0"
+    }
+  },
+  "Fly": {
+    "toggled": false,
+    "bypass": false,
+    "values": {
+      "Mode": "Test"
+    }
+  },
+  "Scaffold": {
+    "toggled": false,
+    "bypass": false,
+    "values": {
+      "Mode": "Normal",
+      "Rotation Mode": "+180",
+      "Place Type": "Legit",
+      "BlockFind Type": "Legit",
+      "Click Delay": "true",
+      "Use Direction": "true",
+      "Safe Walk": "false",
+      "Reverse Movement": "false",
+      "Draw Select Block": "false",
+      "TestMode": "true",
+      "Tower": "false",
+      "Place": "true"
+    }
+  },
+  "TestModule": {
+    "toggled": false,
+    "bypass": false
+  },
+  "ClickGUI": {
+    "toggled": false,
+    "bypass": false,
+    "values": {
+      "Theme": "Normal",
+      "#Cool": "false"
+    }
+  },
+  "Speed": {
+    "toggled": false,
+    "bypass": false,
+    "values": {
+      "Mode": "Vulcan",
+      "Mode-NCP": "NCP-BetterYPort",
+      "Strafe": "true"
+    }
+  },
+  "InvMove": {
+    "toggled": false,
+    "bypass": false
+  },
+  "AutoRegister": {
+    "toggled": true,
+    "bypass": false,
+    "values": {
+      "Delay": "500.0",
+      "Password": "BIND123!"
+    }
+  },
+  "MovementCorrection": {
+    "toggled": true,
+    "bypass": false,
+    "values": {
+      "Silent": "true",
+      "Jump Fix": "true"
+    }
+  }
+}
