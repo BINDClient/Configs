@@ -20,7 +20,7 @@
   "BackTrack": {
     "toggled": false,
     "values": {
-      "Mode": "Delay",
+      "Mode": "Legit",
       "Delay": 2.0,
       "Smart": "true",
       "FakeLag": "false"
@@ -35,9 +35,9 @@
   "KillAura": {
     "toggled": false,
     "values": {
-      "Selected Mode": "Health",
+      "Selected Mode": "Fov",
       "Rotation Mode": "PositionVector",
-      "Random Mode": "Cos Sin",
+      "Random Mode": "None",
       "Attack Mode": "Click",
       "Clicking Mode": "Random",
       "AutoBlock Mode": "Fake",
@@ -49,7 +49,7 @@
       },
       "Target": {
         "Teams": "false",
-        "Villager": "true",
+        "Villager": "false",
         "Players": "true",
         "Monsters": "false"
       },
@@ -59,23 +59,23 @@
         "First": 8.0,
         "Second": 18.0
       },
-      "Max Targets": 9.0,
+      "Max Targets": 3.0,
       "Fov": 360.0,
       "Rotation Speed": 5.0,
       "Clicking by HurtTime": 6.0,
-      "Through Walls": "true",
+      "Through Walls": "false",
       "Auto Disable": "true",
-      "Keep Sprint": "true",
+      "Keep Sprint": "false",
       "GCD Fix": "true",
       "Auto Block": "true"
     }
   },
   "TickBase": {
-    "toggled": true,
+    "toggled": false,
     "values": {
       "Range": 3.0,
-      "Max Time": 0.1,
-      "Delay": 280.0,
+      "Max Time": 0.15,
+      "Delay": 354.0,
       "Wait For KillAura": "true",
       "Limited Ticks": "true"
     }
@@ -85,21 +85,21 @@
     "values": {
       "Mode": "Custom",
       "AAC Mode": "AAC4",
-      "Horizontal": 100.0,
-      "Vertical": 0.0,
+      "Horizontal": 10.0,
+      "Vertical": 100.0,
       "AutoJump": "false"
     }
   },
   "Fly": {
     "toggled": false,
     "values": {
-      "Mode": "Motion"
+      "Mode": "Test"
     }
   },
   "InvMove": {
-    "toggled": false,
+    "toggled": true,
     "values": {
-      "Mode": "NoInvOpen"
+      "Mode": "Vanilla"
     }
   },
   "MoveHelper": {
@@ -117,10 +117,10 @@
     }
   },
   "MovementCorrection": {
-    "toggled": false,
+    "toggled": true,
     "values": {
       "Silent": "true",
-      "Mode": "Test",
+      "Mode": "Normal",
       "Jump Fix": "true"
     }
   },
@@ -131,7 +131,7 @@
     "toggled": false,
     "values": {
       "Mode": "Custom",
-      "Slow": 0.2
+      "Slow": 0.21
     }
   },
   "Phase": {
@@ -145,7 +145,7 @@
     "values": {
       "Mode": "NCP",
       "Mode-Verus": "Verus-BHop",
-      "Mode-NCP": "NCP-YPort",
+      "Mode-NCP": "NCP-Test",
       "Strafe": "true"
     }
   },
@@ -173,7 +173,7 @@
     }
   },
   "VClip": {
-    "toggled": false
+    "toggled": true
   },
   "W-Tap": {
     "toggled": false,
@@ -184,7 +184,7 @@
   "AutoRegister": {
     "toggled": false,
     "values": {
-      "Delay": 0.0,
+      "Delay": 10.0,
       "Password": "BIND123!"
     }
   },
@@ -195,7 +195,7 @@
     "toggled": false,
     "values": {
       "Packet Cap": "true",
-      "Max Packets": 11.0,
+      "Max Packets": 130.0,
       "Reset on KillAura": "true",
       "Reset on HurtTime": "true",
       "Only When Move": "true",
@@ -217,7 +217,7 @@
     "values": {
       "Render Sign": "true",
       "Render NoLayers": "true",
-      "No Animation": "true",
+      "No Animation": "false",
       "No Render Shadows": "false"
     }
   },
@@ -231,8 +231,8 @@
   "InventoryManager": {
     "toggled": false,
     "values": {
-      "Click Delay": 157.0,
-      "Open Delay": 344.0,
+      "Click Delay": 45.0,
+      "Open Delay": 206.0,
       "Only Inventory": "true"
     }
   },
@@ -246,7 +246,7 @@
     "toggled": false,
     "values": {
       "Mode": "KillSay",
-      "Delay": 0.0,
+      "Delay": 1.0,
       "Random Number": "false"
     }
   },
@@ -255,7 +255,7 @@
     "values": {
       "Instant Loot": "false",
       "Steal Delay": 164.0,
-      "Open Delay": 367.0,
+      "Open Delay": 287.0,
       "Random Pick": "true",
       "Auto Close": "true",
       "Name Check": "true"
@@ -359,17 +359,17 @@
   "SafeWalk": {
     "toggled": false,
     "values": {
-      "Mode": "Sneak"
+      "Mode": "Normal"
     }
   },
   "Scaffold": {
     "toggled": false,
     "values": {
-      "Mode": "Telly",
-      "Rotation Mode": "Normal",
+      "Mode": "Normal",
+      "Rotation Mode": "+180",
       "Yaw Offset": "0",
-      "Over Block Rotation": "false",
-      "Strict": "false",
+      "Over Block Rotation": "true",
+      "Strict": "true",
       "Place Delay": "false",
       "Smooth Rotation": "false",
       "GCD Fix": "true"
