@@ -1,253 +1,6 @@
 {
   "username": "Pseey",
-  "updatedAt": 1726955686439,
-  "AutoRegister": {
-    "enabled": true,
-    "values": {
-      "Mode": "/register",
-      "Delay": 500.0
-    }
-  },
-  "BackTrack": {
-    "enabled": false,
-    "values": {
-      "Reset After HurtTime": false,
-      "Only If Need": false,
-      "Reset With Distance": true,
-      "Hit Range": 4.5,
-      "Targets": {
-        "Players": true,
-        "Monsters": false,
-        "Villager": false,
-        "Invisible": false
-      },
-      "Show Always": true,
-      "Delay": 233.0
-    }
-  },
-  "NoFriends": {
-    "enabled": false,
-    "values": {}
-  },
-  "SkinChanger": {
-    "enabled": true,
-    "values": {
-      "Show All": false
-    }
-  },
-  "Cape": {
-    "enabled": true,
-    "values": {
-      "Mode": 4.0
-    }
-  },
-  "Derp": {
-    "enabled": false,
-    "values": {
-      "Same Pitch": false,
-      "Yaw Offset": 4.0,
-      "Disable on Sprint": true,
-      "Mode": "Spin",
-      "Disable on Attack": true
-    }
-  },
-  "Disabler": {
-    "enabled": false,
-    "values": {
-      "Modes": {
-        "Position more decimal": false,
-        "Sneak Spam": false
-      },
-      "Mode": "Custom"
-    }
-  },
-  "AutoClicker": {
-    "enabled": false,
-    "values": {
-      "Perfect Ticks": 2.0,
-      "CPS": 8.0,
-      "Perfect Hit": false
-    }
-  },
-  "Bed Fucker": {
-    "enabled": false,
-    "values": {
-      "Radius": 5.0,
-      "Click Mode": "PlayerController",
-      "Debug Render": false
-    }
-  },
-  "Ambience": {
-    "enabled": false,
-    "values": {
-      "Red": 60.0,
-      "Overwrite Rain/Thunder": false,
-      "Blue": 55.0,
-      "Thunder Strength": 0.0,
-      "Use ClientColor": true,
-      "Custom Time": 0.0,
-      "Rain Strength": 0.0,
-      "Time Mode": "Night",
-      "Green": 0.0,
-      "Overwrite LightMap": true
-    }
-  },
-  "Scaffold Walk": {
-    "enabled": false,
-    "values": {
-      "Spoof Item": true,
-      "Sneak": true,
-      "Same Y": false,
-      "Rotation Mode": "Normal",
-      "Ray Cast": "Off",
-      "Rotation Speed": 5.0
-    }
-  },
-  "HitColor": {
-    "enabled": false,
-    "values": {
-      "Red": 0.0,
-      "Blue": 0.0,
-      "Alpha": 80.0,
-      "Green": 0.0
-    }
-  },
-  "Flight": {
-    "enabled": false,
-    "values": {
-      "Mode": "Collision"
-    }
-  },
-  "InventoryManager": {
-    "enabled": false,
-    "values": {
-      "Features": {
-        "AutoArmor": true,
-        "Sort Items": true,
-        "HotBar Support": false,
-        "Clear Inventory": true
-      },
-      "Open Inventory Delay": {
-        "first": 100.0,
-        "second": 150.0
-      },
-      "Delay": {
-        "first": 172.0,
-        "second": 172.0
-      }
-    }
-  },
-  "MidClickFriends": {
-    "enabled": true,
-    "values": {}
-  },
-  "TargetAlert": {
-    "enabled": true,
-    "values": {
-      "Show Distance": true,
-      "Mode": "Single",
-      "Distance To Crosshair": 77.0,
-      "Max Distance": 22.0
-    }
-  },
-  "AutoTool": {
-    "enabled": true,
-    "values": {
-      "Mode": "Silent"
-    }
-  },
-  "KillAura": {
-    "enabled": false,
-    "values": {
-      "Pre Aim Range": 1.5,
-      "Rotation Random Mode": "Update Rate",
-      "Auto Block Mode": "FakeBlock",
-      "Max Fov": 180.0,
-      "Click Mode": "Legit",
-      "CPS": 6.0,
-      "Random Rotation": true,
-      "Targets": {
-        "Players": true,
-        "Monsters": true,
-        "Villager": true,
-        "Invisible": true
-      },
-      "Jitter Strength": 100.0,
-      "Range": 3.0,
-      "Update Rotation Rate": 150.0,
-      "Rotation Speed": {
-        "first": 120.0,
-        "second": 164.0
-      },
-      "Disable On Death": true,
-      "Smooth Rotation": true,
-      "Random Rotation Strength": 91.0,
-      "Perfect Ticks": 2.0,
-      "Sort Mode": "Fov",
-      "LockView": false,
-      "Perfect Hit": false,
-      "Through Walls": true
-    }
-  },
-  "SmoothRotation": {
-    "enabled": false,
-    "values": {
-      "Smooth Factor": 50.0
-    }
-  },
-  "TickBase": {
-    "enabled": false,
-    "values": {
-      "Max Fov": 29.0,
-      "Force Attack": true,
-      "Targets": {
-        "Players": true,
-        "Monsters": false,
-        "Villager": false,
-        "Invisible": false
-      },
-      "Max Time": 0.2,
-      "Start Range": 2.5
-    }
-  },
-  "NoSlow": {
-    "enabled": false,
-    "values": {
-      "Strafe": 0.7,
-      "Mode": "BlocksMC",
-      "Forward": 0.7
-    }
-  },
-  "Stealer": {
-    "enabled": false,
-    "values": {
-      "Test Mode": true,
-      "Fail Clicks": false,
-      "Auto Close": true,
-      "Check Title Name": true,
-      "Fail Probability": 1.0,
-      "Sort Mode": "Distance",
-      "Steal Delay": {
-        "first": 155.0,
-        "second": 179.0
-      },
-      "Open Inventory Delay": 133.0
-    }
-  },
-  "Custom Scoreboard": {
-    "enabled": true,
-    "values": {
-      "Hide": true,
-      "Y Position": 185.0,
-      "Show Number": false,
-      "Show Shadow": true,
-      "Show Rect": true
-    }
-  },
-  "ItemPhysics": {
-    "enabled": true,
-    "values": {}
-  },
+  "updatedAt": 1727036126470,
   "Aimbot": {
     "enabled": false,
     "values": {
@@ -265,116 +18,6 @@
       "Range": 3.0
     }
   },
-  "Velocity": {
-    "enabled": false,
-    "values": {
-      "Vertical": 100.0,
-      "Horizontal": 21.0,
-      "Boost": 0.2,
-      "Mode": "BlocksMC"
-    }
-  },
-  "Blink": {
-    "enabled": false,
-    "values": {
-      "Cap Packet Mode": "Packets",
-      "Intelligent Reset": true,
-      "Max Packets": 100.0,
-      "Max Delay": 50.0,
-      "Reset On Flag": false,
-      "Reset In Air": false
-    }
-  },
-  "Scaffold": {
-    "enabled": false,
-    "values": {
-      "Spoof Item": true,
-      "Place Mode": "Legit",
-      "SafeWalk": true,
-      "Start Sneaking": true,
-      "Technique": "Normal",
-      "Rotation": "Intave",
-      "Sneak Delay": 17.0
-    }
-  },
-  "ModuleList": {
-    "enabled": true,
-    "values": {
-      "Mode Suffix": "Simple",
-      "Y Position": 0.0,
-      "Show Shadow": false,
-      "Mode Font": "BIND",
-      "X Position": 0.0,
-      "Lower Case": false,
-      "Show Suffix": true,
-      "Use Client Color": true,
-      "Show Visuals": true,
-      "Show Rect": true
-    }
-  },
-  "Speed": {
-    "enabled": false,
-    "values": {
-      "Speed": 1.0,
-      "Disable On Damage": false,
-      "YPort": false,
-      "Mode": "BlocksMC"
-    }
-  },
-  "InventoryMove": {
-    "enabled": true,
-    "values": {}
-  },
-  "MoveCorrection": {
-    "enabled": true,
-    "values": {
-      "Sprinting Check": true
-    }
-  },
-  "HUD": {
-    "enabled": true,
-    "values": {
-      "Show WaterMark": true,
-      "Effects Offset": 0.0,
-      "Show Armor": true,
-      "Show FPS": true,
-      "Show Effects": true,
-      "Show Rect Shadow": true,
-      "Dark Mode": false,
-      "Dark Mode Alpha": 50.0,
-      "Show DebugInfo": true,
-      "Effects Up": false,
-      "Show Notifications": true,
-      "Show Rect": true
-    }
-  },
-  "Air Stuck": {
-    "enabled": false,
-    "values": {}
-  },
-  "Anti Void": {
-    "enabled": true,
-    "values": {}
-  },
-  "Spider": {
-    "enabled": false,
-    "values": {
-      "Mode": "BlocksMC",
-      "Boost Strength": 0.1
-    }
-  },
-  "Spammer": {
-    "enabled": false,
-    "values": {
-      "Random Case": true,
-      "Random Space": true,
-      "Delay": 15.0
-    }
-  },
-  "Extinguish": {
-    "enabled": false,
-    "values": {}
-  },
   "CombatHelper": {
     "enabled": false,
     "values": {
@@ -389,6 +32,176 @@
       "Tap Chance": 32.0
     }
   },
+  "TargetHUD": {
+    "enabled": true,
+    "values": {
+      "Animation Duration": 6.5,
+      "Background": "Transparent",
+      "Show Animation": true,
+      "Theme": "Client"
+    }
+  },
+  "MidClickFriends": {
+    "enabled": true,
+    "values": {}
+  },
+  "KillAura": {
+    "enabled": false,
+    "values": {
+      "Pre Aim Range": 1.5,
+      "Rotation Random Mode": "Update Rate",
+      "Max Fov": 180.0,
+      "Click Mode": "Legit",
+      "Auto Block": "Normal",
+      "CPS": 8.0,
+      "Random Rotation": true,
+      "Targets": {
+        "Players": true,
+        "Monsters": true,
+        "Villager": true,
+        "Invisible": true
+      },
+      "Jitter Strength": 100.0,
+      "Range": 3.0,
+      "Update Rotation Rate": 150.0,
+      "Rotation Speed": {
+        "first": 160.0,
+        "second": 191.0
+      },
+      "Disable On Death": true,
+      "Smooth Rotation": true,
+      "Random Rotation Strength": 91.0,
+      "Perfect Ticks": 3.0,
+      "Sort Mode": "Fov",
+      "LockView": false,
+      "Perfect Hit": true,
+      "Through Walls": true
+    }
+  },
+  "NoFriends": {
+    "enabled": false,
+    "values": {}
+  },
+  "ModuleList": {
+    "enabled": true,
+    "values": {
+      "Mode Suffix": "Simple",
+      "Y Position": 0.0,
+      "Show Shadow": false,
+      "Mode Font": "BIND",
+      "X Position": 0.0,
+      "Lower Case": false,
+      "Show Suffix": true,
+      "Use Client Color": true,
+      "Show Visuals": false,
+      "Show Rect": true
+    }
+  },
+  "SkinChanger": {
+    "enabled": true,
+    "values": {
+      "Show All": false
+    }
+  },
+  "AutoClicker": {
+    "enabled": false,
+    "values": {
+      "Perfect Ticks": 2.0,
+      "CPS": 8.0,
+      "Perfect Hit": false
+    }
+  },
+  "SmoothRotation": {
+    "enabled": false,
+    "values": {
+      "Smooth Factor": 50.0
+    }
+  },
+  "Air Stuck": {
+    "enabled": false,
+    "values": {}
+  },
+  "Velocity": {
+    "enabled": false,
+    "values": {
+      "Vertical": 100.0,
+      "Horizontal": 21.0,
+      "Boost": 0.2,
+      "Mode": "Vulcan"
+    }
+  },
+  "Container ESP": {
+    "enabled": true,
+    "values": {}
+  },
+  "PacketHandler": {
+    "enabled": false,
+    "values": {}
+  },
+  "AutoRegister": {
+    "enabled": true,
+    "values": {
+      "Mode": "/register",
+      "Delay": 500.0
+    }
+  },
+  "Cape": {
+    "enabled": true,
+    "values": {
+      "Mode": 4.0
+    }
+  },
+  "HUD": {
+    "enabled": true,
+    "values": {
+      "Show WaterMark": false,
+      "Effects Offset": 0.0,
+      "Show Armor": true,
+      "Show FPS": true,
+      "Show Effects": true,
+      "Show Rect Shadow": true,
+      "Dark Mode": false,
+      "Dark Mode Alpha": 50.0,
+      "Show DebugInfo": false,
+      "Effects Up": false,
+      "Show Notifications": false,
+      "Show Rect": true
+    }
+  },
+  "Ambience": {
+    "enabled": true,
+    "values": {
+      "Red": 60.0,
+      "Overwrite Rain/Thunder": false,
+      "Blue": 55.0,
+      "Thunder Strength": 0.0,
+      "Use ClientColor": true,
+      "Custom Time": 0.0,
+      "Rain Strength": 0.0,
+      "Time Mode": "Sun",
+      "Green": 0.0,
+      "Overwrite LightMap": false
+    }
+  },
+  "InventoryManager": {
+    "enabled": true,
+    "values": {
+      "Features": {
+        "AutoArmor": true,
+        "Sort Items": true,
+        "HotBar Support": false,
+        "Clear Inventory": true
+      },
+      "Open Inventory Delay": {
+        "first": 100.0,
+        "second": 150.0
+      },
+      "Delay": {
+        "first": 172.0,
+        "second": 172.0
+      }
+    }
+  },
   "ClickGui": {
     "enabled": true,
     "values": {
@@ -398,6 +211,199 @@
       "Blur": true,
       "Theme": "Test"
     }
+  },
+  "Disabler": {
+    "enabled": false,
+    "values": {
+      "Modes": {
+        "Position more decimal": false,
+        "Sneak Spam": true
+      },
+      "Mode": "Custom"
+    }
+  },
+  "Derp": {
+    "enabled": false,
+    "values": {
+      "Same Pitch": false,
+      "Yaw Offset": 4.0,
+      "Disable on Sprint": true,
+      "Mode": "Spin",
+      "Disable on Attack": true
+    }
+  },
+  "Scaffold": {
+    "enabled": false,
+    "values": {
+      "Spoof Item": true,
+      "Place Mode": "PlayerController",
+      "SafeWalk": true,
+      "Start Sneaking": true,
+      "Technique": "Normal",
+      "Rotation": "Intave",
+      "Sneak Delay": 17.0
+    }
+  },
+  "Flight": {
+    "enabled": false,
+    "values": {
+      "Mode": "Collision"
+    }
+  },
+  "MoveCorrection": {
+    "enabled": true,
+    "values": {
+      "Sprinting Check": true
+    }
+  },
+  "Bed Fucker": {
+    "enabled": false,
+    "values": {
+      "Radius": 5.0,
+      "Click Mode": "PlayerController",
+      "Debug Render": false
+    }
+  },
+  "Extinguish": {
+    "enabled": false,
+    "values": {}
+  },
+  "Anti Void": {
+    "enabled": true,
+    "values": {}
+  },
+  "HitColor": {
+    "enabled": false,
+    "values": {
+      "Red": 0.0,
+      "Blue": 0.0,
+      "Alpha": 80.0,
+      "Green": 0.0
+    }
+  },
+  "Speed": {
+    "enabled": false,
+    "values": {
+      "Speed": 1.0,
+      "Disable On Damage": false,
+      "YPort": false,
+      "Mode": "Updated NCP"
+    }
+  },
+  "Stealer": {
+    "enabled": true,
+    "values": {
+      "Test Mode": true,
+      "Fail Clicks": false,
+      "Auto Close": true,
+      "Check Title Name": true,
+      "Fail Probability": 1.0,
+      "Sort Mode": "Distance",
+      "Steal Delay": {
+        "first": 162.0,
+        "second": 179.0
+      },
+      "Open Inventory Delay": 130.0
+    }
+  },
+  "TargetAlert": {
+    "enabled": false,
+    "values": {
+      "Show Distance": true,
+      "Mode": "Single",
+      "Distance To Crosshair": 77.0,
+      "Max Distance": 22.0
+    }
+  },
+  "BackTrack": {
+    "enabled": true,
+    "values": {
+      "Reset After HurtTime": false,
+      "Only If Need": false,
+      "Reset With Distance": true,
+      "Hit Range": 4.5,
+      "Targets": {
+        "Players": true,
+        "Monsters": false,
+        "Villager": false,
+        "Invisible": false
+      },
+      "Show Always": true,
+      "Delay": 307.0
+    }
+  },
+  "TickBase": {
+    "enabled": false,
+    "values": {
+      "Max Fov": 29.0,
+      "Force Attack": true,
+      "Targets": {
+        "Players": true,
+        "Monsters": false,
+        "Villager": false,
+        "Invisible": false
+      },
+      "Max Time": 0.2,
+      "Start Range": 2.5
+    }
+  },
+  "Spammer": {
+    "enabled": false,
+    "values": {
+      "Random Case": true,
+      "Random Space": true,
+      "Delay": 15.0
+    }
+  },
+  "Spider": {
+    "enabled": false,
+    "values": {
+      "Mode": "BlocksMC",
+      "Boost Strength": 0.1
+    }
+  },
+  "Blink": {
+    "enabled": false,
+    "values": {
+      "Cap Packet Mode": "Packets",
+      "Intelligent Reset": true,
+      "Max Packets": 15.0,
+      "Max Delay": 50.0,
+      "Reset On Flag": false,
+      "Reset In Air": false
+    }
+  },
+  "Custom Scoreboard": {
+    "enabled": true,
+    "values": {
+      "Hide": false,
+      "Y Position": 185.0,
+      "Show Number": false,
+      "Show Shadow": true,
+      "Show Rect": true
+    }
+  },
+  "InventoryMove": {
+    "enabled": true,
+    "values": {}
+  },
+  "NoSlow": {
+    "enabled": false,
+    "values": {
+      "Strafe": 0.7,
+      "Mode": "BlocksMC",
+      "Forward": 0.7
+    }
+  },
+  "AutoTool": {
+    "enabled": true,
+    "values": {
+      "Mode": "Silent"
+    }
+  },
+  "ItemPhysics": {
+    "enabled": true,
+    "values": {}
   },
   "EntityESP": {
     "enabled": true,
@@ -416,17 +422,15 @@
       }
     }
   },
-  "PacketHandler": {
+  "Scaffold Walk": {
     "enabled": false,
-    "values": {}
-  },
-  "TargetHUD": {
-    "enabled": true,
     "values": {
-      "Animation Duration": 6.5,
-      "Background": "Transparent",
-      "Show Animation": true,
-      "Theme": "Client"
+      "Spoof Item": true,
+      "Sneak": true,
+      "Same Y": false,
+      "Rotation Mode": "Intave",
+      "Ray Cast": "Off",
+      "Rotation Speed": 18.0
     }
   }
 }
